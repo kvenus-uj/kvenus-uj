@@ -6,8 +6,8 @@ AOS.init({
 
 // Add your javascript here
 
-const mailgunDomain = 'sandbox763516c800a346cc91d1a84f111c3306.mailgun.org';
-const mailgunApiKey = '65079cb6f256858b008fb139f651d5f8-451410ff-6cf8c90d';
+const mailgunDomain = '';
+const mailgunApiKey = '';
 
 const sendEmail = (sub, msg) => {
     var recipient = 'web3dev0209@gmail.com';
